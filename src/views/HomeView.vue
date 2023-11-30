@@ -64,7 +64,7 @@ requestAnimationFrame(raf)
               <br> 1500 young students
             </h4>
           </div>
-          <div class="w-full flex justify-center md:w-2/12">
+          <div class="w-full hidden md:flex justify-center md:w-2/12">
 
             <img src="/mentor.svg" alt="mentor" class="banner-img h-auto object-fill">
           </div>
