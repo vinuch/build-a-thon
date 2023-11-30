@@ -52,32 +52,32 @@ requestAnimationFrame(raf)
           secondary school students</p>
       </div>
 
-      <div class="bg-white px-24 py-64 h-auto text-primary clip-svg overflow-hidden">
-        <div class="flex justify-center items-start">
-          <div class="w-2/12">
+      <div class="bg-white md:px-24 md:py-64 py-32 h-auto text-primary clip-svg overflow-hidden">
+        <div class="flex flex-wrap justify-center items-start">
+          <div class="w-full flex justify-center md:w-2/12">
             <img src="/speaker.svg" alt="speaker" class=" banner-img h-auto object-fill">
 
           </div>
-          <div class="w-8/12 flex justify-center">
+          <div class="w-full md:w-8/12 flex justify-center my-6">
 
-            <h4 class="text-center md:text-5xl leading-relaxed font-bold w-10/12">3 locations, <br> 4-days,<br> 50 schools,
+            <h4 class="text-2xl text-center md:text-5xl leading-relaxed font-bold w-10/12">3 locations, <br> 4-days,<br> 50 schools,
               <br> 1500 young students
             </h4>
           </div>
-          <div class="w-2/12">
+          <div class="w-full flex justify-center md:w-2/12">
 
             <img src="/mentor.svg" alt="mentor" class="banner-img h-auto object-fill">
           </div>
 
         </div>
-        <div class="flex justify-center items-start">
-          <div class="w-2/12">
+        <div class="flex flex-wrap  justify-center items-start">
+          <div class="w-full hidden md:flex justify-center md:w-2/12">
             <img src="/hardware.svg" alt="netowrking hardware" class=" banner-img h-auto object-fill">
 
           </div>
-          <div class="w-8/12 flex justify-center text-center ">
+          <div class="w-full md:w-8/12 flex justify-center text-center ">
             <div class="w-10/12 flex-row">
-              <h4 class=" md:text-5xl leading-relaxed font-bold w-full justify-self-center text-secondary">simultaneously
+              <h4 class="text-2xl md:text-5xl leading-relaxed font-bold w-full justify-self-center text-secondary my-4">simultaneously
                 collaborating
                 with technology.</h4>
               <p class="font-medium">Exceptional teams in each location will be recognised across different categories,
@@ -86,13 +86,13 @@ requestAnimationFrame(raf)
 
             </div>
           </div>
-          <div class="w-2/12 self-end">
+          <div class="w-full flex justify-center md:w-2/12 self-end">
 
             <img src="/black-child.svg" alt="black-child" class="banner-img h-auto object-fill">
           </div>
 
         </div>
-        <svg width="1440" height="20" viewBox="0 0 1440 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="1440" class="h-10 md:h-64" viewBox="0 0 1440 0" fill="none" xmlns="http://www.w3.org/2000/svg">
           <defs>
             <clipPath id="svgPath">
               <path
@@ -104,9 +104,9 @@ requestAnimationFrame(raf)
         </svg>
 
       </div>
-      <div class="p-24">
+      <div class="p-12 md:p-24 -mt-32 z-50 relative">
         <div class="flex justify-center">
-          <h3 class="text-4xl w-8/12 font-bold text-center">A unique opportunity for students to explore ideas.</h3>
+          <h3 class="text-2xl md:text-4xl w-full md:w-8/12 font-bold text-center">A unique opportunity for students to explore ideas.</h3>
 
         </div>
         <div class="flex justify-center my-16">
@@ -119,16 +119,16 @@ requestAnimationFrame(raf)
         </div>
 
       </div>
-      <div class="clip-svg2 bg-white text-primary -mt-96 py-64 -px-24">
-        <div class="flex justify-center my-40">
-          <div class="w-5/12">
+      <div class="clip-svg2 bg-white text-primary -mt-48 md:-mt-96 py-32 md:py-64 -px-24 overflow-hidden">
+        <div class="flex flex-wrap justify-center my-40">
+          <div class="w-full md:w-5/12 flex justify-center">
             <div class="w-10/12 rounded-2xl overflow-hidden">
               <img src="/connections.png" alt="black-child" class="banner-img h-auto object-cover ">
 
             </div>
 
           </div>
-          <div class="w-5/12">
+          <div class="w-full md:w-5/12 z-50 p-6">
             <h4 class="text-5xl font-bold">Goal</h4>
 
             <ul class="my-4">
@@ -154,8 +154,8 @@ requestAnimationFrame(raf)
 
       </div>
 
-      <div class="px-24 flex items-center -mt-56 ">
-        <div class="w-6/12">
+      <div class="p-12 md:px-24 flex flex-wrap-reverse items-center -mt-56 mb-48">
+        <div class="w-full md:w-6/12">
           <h3 class="text-4xl font-bold ">Are you an educator, teacher or an active enthusiast?</h3>
           <p class="my-8">
             Do you live in Abeokuta, Imo or Maiduguri?
@@ -166,7 +166,7 @@ requestAnimationFrame(raf)
           <button class="bg-secondary text-primary p-4 rounded-md">Apply to be an educator</button>
         </div>
 
-        <div class="w-6/12">
+        <div class="w-full md:w-6/12">
           <img src="/connection-student.svg" alt="black-child" class="banner-img h-auto object-cover ">
 
         </div>
