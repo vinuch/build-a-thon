@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hatchway';
+    src: local('Hatchway SemiBold'), local('Hatchway-SemiBold'),
+        url('Hatchway-SemiBold.woff2') format('woff2'),
+        url('Hatchway-SemiBold.woff') format('woff'),
+        url('Hatchway-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }

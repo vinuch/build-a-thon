@@ -1,0 +1,63 @@
+
+
+@font-face {
+    font-family: 'Hatchway';
+    src: url('Hatchway-Bold.eot');
+    src: local('Hatchway Bold'), local('Hatchway-Bold'),
+        url('Hatchway-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Hatchway-Bold.woff2') format('woff2'),
+        url('Hatchway-Bold.woff') format('woff'),
+        url('Hatchway-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Hatchway';
+    src: url('Hatchway-SemiBold.eot');
+    src: local('Hatchway SemiBold'), local('Hatchway-SemiBold'),
+        url('Hatchway-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Hatchway-SemiBold.woff2') format('woff2'),
+        url('Hatchway-SemiBold.woff') format('woff'),
+        url('Hatchway-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Hatchway';
+    src: url('Hatchway-Regular.eot');
+    src: local('Hatchway Regular'), local('Hatchway-Regular'),
+        url('Hatchway-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Hatchway-Regular.woff2') format('woff2'),
+        url('Hatchway-Regular.woff') format('woff'),
+        url('Hatchway-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hatchway';
+    src: url('Hatchway-Medium.eot');
+    src: local('Hatchway Medium'), local('Hatchway-Medium'),
+        url('Hatchway-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Hatchway-Medium.woff2') format('woff2'),
+        url('Hatchway-Medium.woff') format('woff'),
+        url('Hatchway-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hatchway';
+    src: url('Hatchway-Light.eot');
+    src: local('Hatchway Light'), local('Hatchway-Light'),
+        url('Hatchway-Light.eot?#iefix') format('embedded-opentype'),
+        url('Hatchway-Light.woff2') format('woff2'),
+        url('Hatchway-Light.woff') format('woff'),
+        url('Hatchway-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
