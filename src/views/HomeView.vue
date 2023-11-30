@@ -163,7 +163,7 @@ requestAnimationFrame(raf)
             in this programme? If you answered yes to these
             questions, we would like to work with you
           </p>
-          <button class="bg-secondary text-primary p-4 rounded-md">Apply to be an educator</button>
+          <a href="https://my.forms.app/buildathon/requirements-qualifications-for-educators" target="_blank" class="bg-secondary text-primary p-4 rounded-md">Apply to be an educator</a>
         </div>
 
         <div class="w-full md:w-6/12">
